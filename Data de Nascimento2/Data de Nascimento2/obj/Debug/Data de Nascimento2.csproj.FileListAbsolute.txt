@@ -1,0 +1,10 @@
+C:\Users\R114\source\repos\Data de Nascimento2\Data de Nascimento2\obj\Debug\Data de Nascimento2.csprojAssemblyReference.cache
+C:\Users\R114\source\repos\Data de Nascimento2\Data de Nascimento2\obj\Debug\Data_de_Nascimento2.Form1.resources
+C:\Users\R114\source\repos\Data de Nascimento2\Data de Nascimento2\obj\Debug\Data_de_Nascimento2.Properties.Resources.resources
+C:\Users\R114\source\repos\Data de Nascimento2\Data de Nascimento2\obj\Debug\Data de Nascimento2.csproj.GenerateResource.cache
+C:\Users\R114\source\repos\Data de Nascimento2\Data de Nascimento2\obj\Debug\Data de Nascimento2.csproj.CoreCompileInputs.cache
+C:\Users\R114\source\repos\Data de Nascimento2\Data de Nascimento2\bin\Debug\Data de Nascimento2.exe.config
+C:\Users\R114\source\repos\Data de Nascimento2\Data de Nascimento2\bin\Debug\Data de Nascimento2.exe
+C:\Users\R114\source\repos\Data de Nascimento2\Data de Nascimento2\bin\Debug\Data de Nascimento2.pdb
+C:\Users\R114\source\repos\Data de Nascimento2\Data de Nascimento2\obj\Debug\Data de Nascimento2.exe
+C:\Users\R114\source\repos\Data de Nascimento2\Data de Nascimento2\obj\Debug\Data de Nascimento2.pdb
